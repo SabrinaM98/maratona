@@ -160,6 +160,9 @@ danmei.get('tgcf', 'nao consta') >>> hualian # danmei.get('sv', 'nao consta') >>
 danmei['erha'].append('WANNING')
 danmei.clear() >>> {}  danmei['sv'] = 'liushen'
 
+//////////////////////////////////////////////////////////////////////////////////
+s1 = input(''wtv).lower() -> recebe a string em caracteres minusculos
+
 
 
 
