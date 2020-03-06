@@ -137,4 +137,39 @@ for i in range(1,8):
     print(i)
 >>> 1 2 3 4 6 7
 /////////////////////////////////////////////////////////////////////////////////
+concatenaçao = nome + nome2 = 'stringstring2'
+concatenaçao = nome + ' ' + nome2 = 'string string2'
+nome= 'hualian' nome[0:2] >>> 'hu'
+num1 **5 >>> num1⁵
+5 + 2 / 2 >>> 6.0
+(5+2) / 2 >>> 3.5
+import math
+math.sqrt(16) >>> 4
+///////////////////////////////////////////////////////////////////////////////////
+tgcf = ('hua cheng', 'xie lian', 'yushi hang', 'pei ming')
+type(tgcf) >>> tuple
+tgcf = ['hua cheng', 'xie lian', 'yushi hang', 'pei ming'] >>> list
+tgcf.append('shi qingxuan')   tgcf.insert(5, 'ming yi')
+tgcf.pop(4) ou tgcf.remove('pei ming')
+tgcf2 = ['bai wuxiang'] tgcf + tgcf 2 = concatenaçao das 2
+///////////////////////////////////////////////////////////////////////////////////
+danmei = {'tgcf': 'hualian', 'erha': ['ranwan','shuangmeimeng'], 'spl':'changgu'}
+del danmei['spl'] for x in danmei print(x) >>> printa tds as chaves 
+for x in danmei print(x + '' + danmei[x])
+danmei.get('tgcf', 'nao consta') >>> hualian # danmei.get('sv', 'nao consta') >>> 'nao consta'
+danmei['erha'].append('WANNING')
+danmei.clear() >>> {}  danmei['sv'] = 'liushen'
+
+
+
+
+
+
+
+
+
+
+
+
+
 
