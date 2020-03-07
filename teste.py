@@ -162,6 +162,22 @@ danmei.clear() >>> {}  danmei['sv'] = 'liushen'
 
 //////////////////////////////////////////////////////////////////////////////////
 s1 = input(''wtv).lower() -> recebe a string em caracteres minusculos
+for i in tgcf: #o for pode percorrer listas, strings(printa cd letra da string)
+    print(i)   >>> hua cheng, xie lian....
+for i in danmei:
+    print(danmei[i]) >>> printa tds os valores associados as chaves
+    print(i, ' ', danmei[i]) >>> printa as chaves e os valores
+    
+danmei2 = [['HC', 'XL', 'SQX'], ['LBH','SQQ','LQG'], ['CWN','MR']]
+    for i in danmei2:
+        #print(i) >>> printa as 3 listas
+        for j in i:
+            print(j)
+///////////////////////////////////////////////////////////////////////////////////////
+
+        
+   
+    
 
 
 
