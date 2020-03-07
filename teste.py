@@ -152,6 +152,7 @@ tgcf = ['hua cheng', 'xie lian', 'yushi hang', 'pei ming'] >>> list
 tgcf.append('shi qingxuan')   tgcf.insert(5, 'ming yi')
 tgcf.pop(4) ou tgcf.remove('pei ming')
 tgcf2 = ['bai wuxiang'] tgcf + tgcf 2 = concatenaçao das 2
+lista[2:4]
 ///////////////////////////////////////////////////////////////////////////////////
 danmei = {'tgcf': 'hualian', 'erha': ['ranwan','shuangmeimeng'], 'spl':'changgu'}
 del danmei['spl'] for x in danmei print(x) >>> printa tds as chaves 
